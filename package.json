@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "phaser": "^3.80.1"
+  },
+  "name": "mygame",
+  "version": "1.0.0",
+  "description": "game for mental agility",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edisonr17/worlds.git"
+  },
+  "keywords": [
+    "game",
+    "words",
+    "mental"
+  ],
+  "author": "ravisky17",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edisonr17/worlds/issues"
+  },
+  "homepage": "https://github.com/edisonr17/worlds#readme"
+}
